@@ -1,0 +1,2 @@
+# LatteWebStarter
+基于SpringBoot3和Java21特性的Java Web快速开发脚手架
